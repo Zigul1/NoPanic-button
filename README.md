@@ -30,4 +30,4 @@ Per distinguerlo da altri *script* o collegamenti PowerShell è disponibile, fra
 
 **Q - Come inserire altri comandi e/o rimuovere quelli già presenti?**
 
-**A -** Dalla riga 72 alla 119 dello *script*, c'è l'elenco dei comandi inseriti, che possono essere cancellati e/o modificati; per aggiungerne altri è sufficiente scriverli prima della riga 119, che serve a chiudere la finestra con il pulsante dopo che sono stati eseguiti i comandi.
+**A -** Dalla riga 72 alla 119 dello *script*, c'è l'elenco dei comandi inseriti, che possono essere cancellati e/o modificati; per aggiungerne altri è sufficiente scriverli prima della riga 119, che serve a chiudere la finestra con l'immagine del pulsante dopo che sono stati eseguiti i comandi.
