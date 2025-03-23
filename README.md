@@ -18,9 +18,9 @@ Ovviamente, **personalizzando** lo *script* è possibile aggiungere altri comand
 Per distinguerlo da altri *script* o collegamenti PowerShell è disponibile, fra i *file* sopra, un'**icona** personalizzata ("panic-icon.ico"), assegnabile manualmente allo *script* quando viene creato un collegamento.
 
 
-**[Articolo su TurboLab](https:\\www.turbolab.it)**
+**[Articolo su TurboLab](https://turbolab.it/4320)**
 
-**[Video tutorial su YouTube](https:\\www.youtube.com)**
+**[Video tutorial su YouTube](https://youtu.be/JEnhV_dIxQQ)**
 
 <h2>FAQ</h2>
 
