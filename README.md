@@ -20,7 +20,7 @@ Per distinguerlo da altri *script* o collegamenti PowerShell è disponibile, fra
 
 **[Articolo su TurboLab](https://turbolab.it/4320)**
 
-**[Video tutorial su YouTube](https://youtu.be/JEnhV_dIxQQ)**
+**[Video tutorial su YouTube](https://www.youtube.com/watch?v=JEnhV_dIxQQ)**
 
 <h2>FAQ</h2>
 
